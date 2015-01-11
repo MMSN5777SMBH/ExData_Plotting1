@@ -1,3 +1,6 @@
+#
+# Plot3.R
+#
 #==========================================================================
 #
 #	 Reading the text file: "household_power_consumption.txt"
